@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: Abandon Zone Quest
+## Version: 3.0
+## Author: ThreeDoubloons, based on work by Calpurnius
+## Notes: Allows abandoning of all quests in a specific zone
+AbandonZoneQuest.xml
+AbandonZoneQuest.lua
